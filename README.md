@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/oforiPrince/oforiPrince/blob/main/Wave.gif" height="55px" width="55px">, I'm Prince Ofori</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Learner
 
 ?></h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Website Development**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
