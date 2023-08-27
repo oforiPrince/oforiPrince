@@ -1,18 +1,14 @@
 <h1 align="center">Hi <img src="https://github.com/oforiPrince/oforiPrince/blob/main/Wave.gif" height="55px" width="55px">, I'm Prince Ofori</h1>
 
-- 🔭 I’m currently working on **Website Development**
+- 🔭 I’m currently working on **Mobile App Development**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **Princeofori723@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oforiPrince&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 ### Connect with me:
 
